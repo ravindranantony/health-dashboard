@@ -2,7 +2,7 @@
 
 import { useState, useCallback, useEffect } from "react"
 import { motion, AnimatePresence } from "framer-motion"
-import { Bell, Calendar, Heart, LineChart, MoreVertical, Plus, User, Activity, Flame, Moon, Droplet, Zap, Candy, Apple, Dumbbell, Info, Brain, ArrowRight, Wind } from "lucide-react"
+import { Bell, Calendar, Heart, LineChart, Plus, User, Activity, Flame, Moon, Droplet, Zap, Candy, Apple, Dumbbell, Brain, ArrowRight, Wind } from "lucide-react"
 
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
 import { Button } from "@/components/ui/button"
